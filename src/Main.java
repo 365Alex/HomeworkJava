@@ -10,6 +10,13 @@ public class Main {
         long k = 987678965549L;
         float p = 2.786f;
         double m = 27.12;
+        System.out.println(a);
+        System.out.println(h);
+        System.out.println(z);
+        System.out.println(s);
+        System.out.println(k);
+        System.out.println(p);
+        System.out.println(m);
 
         //задача 3
         byte ludmilaP = 23;
